@@ -16,5 +16,8 @@ Pytheas is a Guice-Jersey based web application framework designed to allow quic
 * checkout code - git clone https://github.com/Netflix/pytheas 
 * run ./gradlew jettyRun
 
+
+
+
 You should see a simple hello world application running at http://localhost:8989/pytheas-helloworld.
 You can look into pytheas-helloworld subproject in your src to find more about specific code blocks needed to get started on building your own app using Pytheas.
